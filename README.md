@@ -1,6 +1,6 @@
 # Digit-Recognizer-AI
 
-This repository contains two machine learning models designed to recognize handwritten digits. These models are implemented using TensorFlow and Keras and trained on the MNIST Kaggle training dataset(https://www.kaggle.com/competitions/digit-recognizer ), which consists of 20,000+ images of handwritten digits from 0 to 9. More information in Markdowns for each model
+This repository contains two machine learning models designed to recognize handwritten digits. These models are implemented using TensorFlow and Keras and trained on the MNIST Kaggle training dataset(https://www.kaggle.com/competitions/digit-recognizer ), which consists of 20,000+ images of handwritten digits from 0 to 9. More information in Markdowns for each model.
 
 ## Models
 
@@ -24,7 +24,6 @@ Follow these steps to set up your environment and run the models:
    cd digit-recognition
 
 2. Install Required packages: 
-
     pip install -r requirements.txt
 
 
