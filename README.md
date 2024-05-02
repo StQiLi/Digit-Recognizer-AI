@@ -24,6 +24,7 @@ Follow these steps to set up your environment and run the models:
    cd digit-recognition
 
 2. Install Required packages: 
+    ```bash
     pip install -r requirements.txt
 
 
